@@ -1,0 +1,5 @@
+id,usuario_origem_id,usuario_destino_id,valor,descricao,data_transferencia,data_criacao,transferencia_id
+1,1,2,20.00,"Pote Simone","2026-05-22 13:26:19","2026-05-22 13:26:19",
+2,2,1,20.00,,"2026-05-22 13:34:41","2026-05-22 13:34:41",
+3,1,2,50.00,"Pote Simone","2026-05-26 12:41:34","2026-05-26 12:41:34",
+4,1,2,50.00,"Pote Lina","2026-05-26 12:51:28","2026-05-26 12:51:28",

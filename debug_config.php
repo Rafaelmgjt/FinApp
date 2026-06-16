@@ -1,0 +1,1 @@
+<?php $_SERVER["PHP_SELF"]="/pages/login.php"; $_SERVER["SCRIPT_NAME"]="/pages/login.php"; $_SERVER["DOCUMENT_ROOT"]="C:/xampp/htdocs"; require "config/config.php"; var_dump(BASE_URL); echo baseUrl("pages/registro.php"); ?>

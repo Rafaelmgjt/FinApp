@@ -1,0 +1,7 @@
+id,usuario_id,nome,descricao,saldo_inicial,saldo_atual,data_criacao,transferencia_id
+1,1,"Mercado Livre",,520.88,371.99,"2026-05-26 15:07:13",
+2,1,C6,,0.00,0.00,"2026-05-26 15:07:26",
+3,1,Uber,,0.00,0.00,"2026-05-26 15:07:36",
+4,2,"Conta Principal",,0.00,0.00,"2026-05-26 15:45:39",
+5,2,"Caixinha Scorpio",,0.00,100.00,"2026-05-26 15:45:47",
+6,1,"Conta Principal",,0.00,0.00,"2026-05-26 15:47:48",
