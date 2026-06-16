@@ -111,13 +111,13 @@ Este é um projeto de demonstração. Para uso em produção, recomenda-se:
 
 ## 📝 Próximas Melhorias
 
+- [ ] Mudança de CSV para MySQL
 - [ ] Autenticação via Google/GitHub
 - [ ] Exportação de relatórios em PDF
 - [ ] Gráficos interativos
 - [ ] Categorização de movimentações
 - [ ] Sistema de orçamento mensal
 - [ ] Notificações de transações
-- [ ] Backup automático de dados
 - [ ] Interface responsiva mobile
 
 ## 👨‍💻 Autor
