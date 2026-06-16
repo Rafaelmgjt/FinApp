@@ -122,7 +122,7 @@ Este é um projeto de demonstração. Para uso em produção, recomenda-se:
 
 ## 👨‍💻 Autor
 
-**Rafael Magalhães**  
+**Rafael Miranda**  
 GitHub: [@Rafaelmgjt](https://github.com/Rafaelmgjt)
 
 ## 📄 Licença
@@ -135,4 +135,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ---
 
-**Desenvolvido com ❤️ por Rafael Magalhães**
+**Desenvolvido com ❤️ por Rafael Miranda**
